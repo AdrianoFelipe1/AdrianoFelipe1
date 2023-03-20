@@ -9,5 +9,5 @@
  
  ###
  <div style="display: inline_block">
- <img align="center" alt="Adriano-Php" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+ <img align="center" alt="Adriano-Php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
