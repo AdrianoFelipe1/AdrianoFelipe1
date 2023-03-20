@@ -1,11 +1,9 @@
-### Hi there 👋
-
-<!--
-**AdrianoFelipe1/AdrianoFelipe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Olá! Eu sou o Adriano Felipe
 
 - 🌱 Estudando WordPress & Marketing Digital
 - 📫 Contate-me no email: driko.felipe@gmail.com
 - 😄 Pronouns: ele/dele
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianofelipe1&show_icons=true&theme=transparent)
+
 -->
