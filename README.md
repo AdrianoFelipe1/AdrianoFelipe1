@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Adriano Felipe
 
-- 🌱 Estudando WordPress & Marketing Digital
+- 🌱 Analista de Mídia & Performance | Bacharelado em Sistemas de Informação
 - 📫 Contate-me no email: driko.felipe@gmail.com
 - 😄 Pronouns: ele/dele
 
