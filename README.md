@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Adriano Felipe
 
-- 🌱 Analista de Mídia & Performance | Bacharelado em Sistemas de Informação
+- 🌱 DevOps | Cloud | Bacharel em Sistemas de Informação | Experiência em CPD e Social Media
 - 📫 Contate-me no email: driko.felipe@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -16,7 +16,7 @@
 😺—————————————————————————————————————————————————————😺
 <div><br>
 <a href="mailto:driko.felipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/adriano-felipe-467b2585/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/adrianofadepaula/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
 
  ![Snake animation](https://github.com/AdrianoFelipe1/AdrianoFelipe1/blob/output/github-contribution-grid-snake.svg)
