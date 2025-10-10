@@ -11,7 +11,8 @@
  <img align="center" alt="Adriano-Php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
  <img align="center" alt="Adriano-Html" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  <img align="center" alt="Adriano-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- <img align="center" alt="Adriano-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img align="center" alt="Adriano-node.js" height="30" width="40" src="https://cdn.simpleicons.org/node.js"">
+<img align="center" alt="Adriano-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </div>
 😺—————————————————————————————————————————————————————😺
 <div><br>
