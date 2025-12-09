@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Adriano Felipe
 
-- 🌱 DevOps | Cloud | Bacharel em Sistemas de Informação | Experiência em CPD e Social Media
+- 🌱 Formado em Sistemas, buscando vaga de Suporte/TI/NOC. Habilidades: Linux, Linux/Windows, redes, monitoramento, scripts, etc.
 - 📫 Contate-me no email: driko.felipe@gmail.com
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoFelipe1&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true) 
