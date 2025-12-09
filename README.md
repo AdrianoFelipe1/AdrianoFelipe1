@@ -1,7 +1,19 @@
-## Olá! Eu sou o Adriano Felipe
+# 👋 Olá! Eu sou o Adriano Felipe
 
-- 🌱 Formado em Sistemas de Informação, buscando vaga de Suporte/TI/NOC. Habilidades: Linux, Linux/Windows, redes, monitoramento, scripts, etc.
-- 📫 Contate-me no email: driko.felipe@gmail.com
+### Analista de Suporte Técnico | NOC | Infraestrutura | Futuro DevOps
+
+🎓 Formado em Sistemas de Informação  
+💼 Experiência em CPD, monitoramento e operações  
+☁️ Conhecimento básico em AWS, Docker e CI/CD  
+🔧 Linux | Windows Server | Redes  
+
+📌 Buscando oportunidade como **Analista de Suporte / NOC**  
+🌱 Aprimorando práticas DevOps (Docker, AWS, GitHub Actions)  
+
+---
+
+## 📫 Entre em contato
+**LinkedIn:** https://www.linkedin.com/in/adrianofadepaula  
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoFelipe1&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoFelipe1&layout=compact&langs_count=10&theme=midnight-purple&count_private=true&include_all_commits=true)
